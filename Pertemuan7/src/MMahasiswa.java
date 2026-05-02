@@ -19,3 +19,9 @@ public class MMahasiswa {
 
     }
 }
+/*  Menurut saya, polimorfisme bekerja dengan cara mengubah tag dari
+data type tersebut, dimana di memory data yang disimpan tetap memiliki
+biner yang sama, tetapi dengan pengenal data type yang diubah
+menjadi data type yang dituju, dengan beberapa constraint tambahan
+agar tidak terjadinya data corruption
+ */
